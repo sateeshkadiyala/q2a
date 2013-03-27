@@ -18,5 +18,7 @@ Add the following to qa-styles.css
 
 Include the javascript from google +1, twitter, fb in HEAD.You can do with the admin console
 
+Disclaimer: This is just a basic widget, please be cautious in implementing this code.
+
  
 
